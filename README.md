@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - My favorite programming languages and related tools: SQL (especially PostgreSQL), Python (and its DS & ML libraries, such as Pandas, mlxtend, NumPy, Matplotlib, SciPy, and others), C++, Docker and more.
 - If you'd like to contact me, feel free to send me an email: matheus.lopes8@unioeste.br.
 
-——————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————
 
 - Atualmente cursando Bacharelado em Ciência da Computação na Unioeste (Universidade Estadual do Oeste do Paraná), que é uma universidade pública brasileira
 - Entusiasta de ciência de dados e bolsista CNPq na área de Ciência de Dados em Ciências Agrárias. [Núcleo GeoScience](https://www.unioeste.br/portal/carta-de-servicos/cascavel-carta-de-servicos/lista-de-itens-do-campus-de-cascavel/61517-nucleo-geoscience).
